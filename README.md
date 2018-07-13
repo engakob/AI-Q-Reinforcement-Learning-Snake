@@ -7,9 +7,9 @@ This program was written from scratch and not built on top or inspired by anothe
 
 ### Requirements
 Python 2 or 3
-`pip install turtle`
-`pip install tqdm`
-`pip install os`
+`pip install turtle`\
+`pip install tqdm`\
+`pip install os`\
 
 
 
