@@ -1,16 +1,19 @@
 # Snake Reinforcement Learning Project using Q-Learning
 
 
-My goal of this project is to teach a program how to play snake and eventually reach a super-human level of accuracy and wins.
+This is a simple Artificial Intelligence project, using Q-Reinforcement Learning to teach a program how to play arcade game snake and eventually reach a super-human level of accuracy and wins.
 
-This program was written from scratch and not built on top or inspired by another project.
+This code was written from scratch and not built on top or inspired by another project.
 
 The snake learns to play on a NxN grid which can be adjusted in the code, 3x3 being a reasonable environment and 10x10 will take so much time to train.
 
 On a regular i5 - 8GB RAM computer, a 3x3 snake takes 4-6 hours to start winning, and more than a day to become optimal. This is due to the enormous amount of possible actions that exist for winning or losing.
 
-And according to the Q-Learning algorithm, the program has to scan all possible state-action-reward pairs before attempting the next action, which gets bigger and bigger as the program runs.
+According to the Q-Learning algorithm, the program has to scan all possible state-action pairs before deciding the next action, which is based on given rewards. As the program runs, the Q table becomes bigger and bigger which will increase the training time.
 
+The program will generate a 'logs' text-file while training.
+
+I will add a new Python file soon, which will plot the accuracy of the model. 
 
 ### Requirements
 Python 2 or 3\
