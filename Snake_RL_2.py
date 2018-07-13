@@ -245,8 +245,6 @@ def StampSnake():
     SnakePen.up()
     SnakePen.clear()
     SnakePen.shape('square')
-    # SnakePen.color('Green')
-    # SnakePen.colormode(255)
     turtle.colormode(255)
     SnakePen.color(0,139,0)
     if len(Snake_Array) >= 1:
