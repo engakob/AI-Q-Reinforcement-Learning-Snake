@@ -6,10 +6,10 @@ My goal of this project is to teach a program how to play snake and eventually r
 This program was written from scratch and not built on top or inspired by another project.
 
 ### Requirements
-Python 2 or 3
+Python 2 or 3\
 `pip install turtle`\
 `pip install tqdm`\
-`pip install os`\
+`pip install os`
 
 
 
