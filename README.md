@@ -11,9 +11,7 @@ On a regular i5 - 8GB MAC, a 3x3 snake takes 4-6 hours to start winning, and mor
 
 According to the Q-Learning algorithm, the program has to scan all possible state-action pairs before deciding the next action, which is based on given rewards. As the program runs, the Q table becomes bigger and bigger which will increase the training time.
 
-The program will generate a 'logs' text-file while training.
-
-I will add a new Python file soon, which will plot the accuracy of the model similar to the graph below. 
+The program will generate a 'logs' text-file while training, which can be plotted by the Plot.py file.
 
 ### Requirements
 Python 2 or 3\
