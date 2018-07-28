@@ -1,7 +1,7 @@
 # Snake Reinforcement Learning Project using Q-Learning
 
 
-This is a simple Artificial Intelligence project, using Q-Reinforcement Learning to teach a program how to play arcade game snake and eventually reach a super-human level of accuracy and wins.
+This is an Artificial Intelligence project, using Q-Reinforcement Learning to teach a program how to play arcade game snake and eventually reach a super-human level of accuracy and wins.
 
 This code was written from scratch and not built on top or inspired by another project.
 
