@@ -853,13 +853,7 @@ def start_train():
         if TurnsCount % 10 == 0 and TurnsCount != 0:
             UpdateQTXT()
 
-        
-
-
-        
-        
-        
-       
+    
 
         
 NewSnake()                
